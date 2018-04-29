@@ -1,0 +1,6 @@
+/*Estilo de la pagina de ayuda, indicando el tipo de letra utilizada y el tamaño de la misma*/
+p{
+	font-family:arial;
+	font-size:20px;
+	
+}

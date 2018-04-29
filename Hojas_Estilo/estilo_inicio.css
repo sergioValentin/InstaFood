@@ -1,0 +1,10 @@
+/*Aquí tenemos el estilo del slider, marquenes por la derecha, izquierda y distancia desde arriba*/
+#slider{
+	margin-right:200px;
+	margin-left:200px;
+	margin-top: 100px;
+}
+
+#sugerencia{
+	margin-left:200px;
+}

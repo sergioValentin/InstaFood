@@ -1,0 +1,9 @@
+/*Estilo del boton de compra, indicando posicion, margenes,etc*/
+#comprar{
+	float: right;
+	margin-left: 500px;
+	position: absolute;
+	left:460px;
+	top:620px;
+}
+

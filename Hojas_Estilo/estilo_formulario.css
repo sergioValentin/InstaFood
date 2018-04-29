@@ -1,0 +1,29 @@
+/*Aquí tenemos como se disponen los bloques del formulario, en este caso, se disponen como una lista*/
+input{
+	display: list-style-position;
+	margin: .5em;
+}
+
+/*Color del cuerpo de la pagina*/
+body{
+	background: #FFFFFF;
+}
+
+/*Estilo del titlo, borde y tipo de letra*/
+H1.Titulo{
+	color: black;
+	border: solid-black;
+	font-family: comic sans MS;
+}
+
+/*Estilo para el formulario de compra, donde es intenresante resaltar que si no estan 
+registrados en la págino han de hacerlo para proceder con la compra*/
+P.obligatorio{
+	color: red;
+}
+
+/*Estilo de los bordes*/
+FIELDSET{
+	border: 6px groove #ccc;
+	
+}

@@ -1,0 +1,167 @@
+#objetivos{
+	color: black;
+	border: solid black;
+	font-family: Arial;
+	font-size: 30px;
+	text-align: justify;
+	margin: 15px;
+}
+span{
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+	font-family: Arial;
+	
+	
+}
+
+div#derecha {
+  background-color: lightblue;
+  width: 30%;
+  
+  
+  float: right;
+  padding: 1em;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+    margin-right:40px;
+   position: relative;
+  height: 70%;
+ 
+}
+
+#izda {
+  background-color: lightblue;
+  width: 30%;
+  float: left;
+  padding: 1em;
+  box-sizing: bo-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  margin-left:40px;
+  height: 70%;
+  position: relative;
+  
+}	
+#centro {
+  background-color: lightblue;
+  width: 30%;
+  float: right;
+  padding: 1em;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+    margin-right: 25px;
+	
+  height: 70%; 
+  position: relative;
+
+  
+}
+#rec_servicios p a IMG{
+	padding: 3px 3px;
+  border: grey 5px solid;
+  border-radius: 20px;
+}
+	
+
+	#rec_servicios p {
+		
+		
+	
+	
+	
+	font-size: 30px;
+	font-family: Arial;
+	}
+
+
+
+P.servicios{
+	color: black;
+	
+	font-family: Arial;
+	font-size: 30px;
+	text-align:justify;
+	margin: 15px;
+}
+#rec_servicios{
+	
+	background-color: #D8D8D8;
+	 height: 70%; 
+  position: relative;
+}
+
+#equipo {
+	
+	color: black;
+	font-family: Arial;
+	font-size: 25px;
+	text-align:justify;
+	margin: 15px;
+}
+
+#IzdaGrande{
+	
+	background-color: #BDBDBD;
+	width: 50%;
+    float: left;
+  padding: 1em;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+    margin-left: 45px;
+	
+  height: 70%; 
+  position: relative;
+	
+	
+}
+
+
+#derecha1{
+	
+	background-color: #848484;
+	width: 40%;
+    float: right;
+  padding: 1em;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+    margin-right: 35px;
+	
+  height: 70%; 
+  position: relative;
+	
+	
+}#derecha2{
+	
+	background-color: #6E6E6E;
+	width: 40%;
+    float: right;
+	padding: 1em;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+    	margin-top:10px;
+	margin-right:35px;
+	
+  height: 70%; 
+  position: relative;
+	
+	
+}
+
+
+
+
+#opiniones {
+	
+	color: black;
+	font-family: Arial;
+	font-size: 25px;
+	text-align:justify;
+	margin: 15px;
+}

@@ -1,0 +1,11 @@
+/*Estilo del reloj, indicando el tamaño del borde, el color de fondo, el color de las letras, tipo de letra, tamaño de la misma y alineacion*/
+#reloj {
+
+border: 2px;
+background-color:white;
+color: black;
+font-family : Arial;
+font-size : 20pt; 
+text-align: center;
+
+}

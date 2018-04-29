@@ -1,0 +1,51 @@
+			
+#header {	/*Aquí tenemos las propiedades de la cabecera*/
+	margin:auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+	
+ul, li a{
+	color:black;
+	text-decoration:none;
+	}
+	
+
+/*Aqui tenemos el formato en el que salen los menus*/	
+ul, ol {
+	list-style:none;
+}
+			
+.menu > li {		
+	float:left;
+}
+			
+.menu li a {		/*Aquí tenemos el formato del menu principal*/	
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	padding:15px 50px;
+	display:block;
+}
+					
+.menu li ul {	/*Aqui tenemos los submenus*/
+	display:none;
+	position:absolute;
+	min-width:10px;
+}
+			
+.menu li:hover > ul {	/*Con esto hacemos que salga el menu desplegable al pasar el raton*/
+	display:block;0
+	z-index:20;
+}
+			
+.menu li ul li {
+	position:relative;
+}
+			
+.menu li ul li ul {
+	right:-140px;
+	top:0px;
+}
+			
+
+ 
