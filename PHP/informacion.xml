@@ -1,0 +1,19 @@
+    <CATALOG>
+	<CONTACTO>
+		<NOMBRE>Nombre: Paula<BR></NOMBRE>
+		<APELLIDOS>Apellidos: Cantoral Gutierrez<BR></APELLIDOS>
+		<FECHA>Fecha de nacimiento: 8 de Julio de 1995<BR></FECHA>
+		<LOCALIDAD>Localidad: Zamora<BR></LOCALIDAD>
+		<INFORMACION>Informacion: Joven, con las ideas claras. Reciende graduada en ingenieria de telecomunicaciones
+		emprende esta nueva aventura en su vida junto a su compañero.<BR><BR></INFORMACION>
+	</CONTACTO>
+	<CONTACTO>
+		<NOMBRE><BR>Nombre: Sergio<BR></NOMBRE>
+		<APELLIDOS>Apellidos: Valentin Arroyo<BR></APELLIDOS>
+		<FECHA>Fecha de nacimiento: 23 de Octubre de 1995<BR></FECHA>
+		<LOCALIDAD>Localidad: Valladolid<BR></LOCALIDAD>
+		<INFORMACION>Informacion: Joven y con futuro muy prometedor por delante, recien graduado en ingenieria de telecomunicaciones.
+		Se apunta a este nuevo proyecto con ganas de triunfar.</INFORMACION>
+	</CONTACTO>
+
+</CATALOG>
